@@ -1,6 +1,6 @@
 {
   "name": "@chatlands/spritesheet-js",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "description": "Spritesheet generator",
   "main": "index.js",
   "bin": {
